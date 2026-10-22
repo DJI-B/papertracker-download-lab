@@ -1,0 +1,6 @@
+{
+  "algorithm": "ed25519",
+  "key_id": "lab-20261022",
+  "payload": "{\n  \"arch\": \"x64\",\n  \"channel\": \"stable\",\n  \"documents\": {\n    \"papertracker/versions.jsonl\": {\n      \"sha256\": \"898fb3f4453c6562bee4a41c2df0444332a3f96118506f34c5325cdeaf302898\",\n      \"size\": 222\n    },\n    \"papertracker/windows/x64/stable/current.json\": {\n      \"sha256\": \"e3a87ac6e70fc4c53ac188c00c1d2cd8fe0b5d7916942650a1bae7bc1d32630c\",\n      \"size\": 315\n    },\n    \"papertracker/windows/x64/stable/manifests/a5003e6b8718696b59ee4ea5517f96e96663459ef794a955979514549873e3d8.json\": {\n      \"sha256\": \"a5003e6b8718696b59ee4ea5517f96e96663459ef794a955979514549873e3d8\",\n      \"size\": 758\n    },\n    \"papertracker/windows/x64/stable/releases/1.json\": {\n      \"sha256\": \"f36336363eb958a04d22f1bc9aa4a91f14de42399e61bf5c676899a8caf16309\",\n      \"size\": 315\n    }\n  },\n  \"expires_at\": 1793258094,\n  \"generation\": 1,\n  \"issued_at\": 1792653294,\n  \"platform\": \"windows\",\n  \"product\": \"papertracker\",\n  \"release_tag\": \"lab-20261022-g1\",\n  \"schema_version\": 1\n}\n",
+  "signature": "7c0b12095450f660201259fdb8a6db5585d72d287fc766c822595dc0979832cd986004f69925d8d1408f0e60b0d45a0ff8de4bbb88100f7308840fe4fd1e540e"
+}
